@@ -1,0 +1,5 @@
+git status
+git add WeatherPy.ipynb
+
+# Adding config.py file.
+api_keys.py
